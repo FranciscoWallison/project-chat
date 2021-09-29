@@ -3,7 +3,7 @@
 import requests, json, base64, sys, os, pathlib, time
 now = str(time.time()).replace(".", "")
 
-apikey="token"
+apikey="AIzaSyBUrG7YyqBHH-TcgwACamVt3mlNU2u5dR4"
 url=r"https://texttospeech.googleapis.com/v1beta1/text:synthesize?fields=audioContent&key=%s"%apikey
 
 request = """
