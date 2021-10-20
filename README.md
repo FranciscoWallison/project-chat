@@ -1,2 +1,2 @@
 # ABI Academy Hack
-Esse projeto tem como objetivo de criar um chat-bot para audio e interpretação de girias par afazer pedidos.
+Este projeto tem como objetivo de criar um chatbot para audio e interpretação de girias, para fazer pedidos.
